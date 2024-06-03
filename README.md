@@ -16,4 +16,4 @@ GIT: https://github.com/Rafa1015/Projeto-2024
   
 - Felipe Silva De Oliveira – RA  2223106062
 
--Higor Gabriel Pinto - RA 2223106445
+- Higor Gabriel Pinto - RA 2223106445
