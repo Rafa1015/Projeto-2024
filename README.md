@@ -15,3 +15,5 @@ GIT: https://github.com/Rafa1015/Projeto-2024
 - Fernando Nascimento da Silva Magalhães da Cruz Prates - RA 2223103196
   
 - Felipe Silva De Oliveira – RA  2223106062
+
+-Higor Gabriel Pinto - RA 2223106445
