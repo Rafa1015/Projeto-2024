@@ -4,7 +4,7 @@ Projeto e Modelagem De Sistemas de Software
 
 Sistema WEB:
 
-YOUTUBE: https://www.youtube.com/watch?v=obnm6qiB0oA
+YOUTUBE: https://www.youtube.com/watch?v=6v9E8uQsJJ8
 
 CLOUD: http://57.152.32.9/swagger/index.html   (Acessar API pelo navegador, visualizando a interface do Swagger)
 
